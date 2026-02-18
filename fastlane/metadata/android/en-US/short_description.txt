@@ -1,1 +1,0 @@
-An Android app to display meaning of the word as notification.
